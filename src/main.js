@@ -1,5 +1,6 @@
-import "./reset.css";
-import "./styles.css";
+// import css during dev for vite reloading
+// import "./reset.css";
+// import "./styles.css";
 
 import Config from "./config.js";
 
