@@ -1,14 +1,33 @@
 const Config = {
   sketches: [
     {
-      slug: "fruit-salad",
-      author: "Madeleine Andersen",
-      title: "Fruit Salad",
+      slug: "darwins-flower-garden",
+      author: "Bobby Bourque",
+      title: "Darwin's Flower Garden",
       description:
-        "In this sketch, a sphere morphs through various fruit shapes. Each fruit has a hand-painted texture and fun little details!",
-      url: "https://editor.p5js.org/madeleinejane.andersen/full/ynIqVLt0n",
-      width: 500,
-      height: 500,
+        "Darwin observed that, on different islands of the Galapagos, finches had evolved different beaks adapted to eating the food that was abundant. In this simulation, flowers with simulated genomes adapt to an imaginary environment where genes that help them are emphasized and genes that don't are suppressed. All of the flowers begin with the same genome, as natural selection (with some random variation) leads them down paths to new phenotypes. Press spacebar to restart with new flowers.",
+      url: "https://editor.p5js.org/robo4533/full/bznX7uJLJ",
+      width: 600,
+      height: 600,
+    },
+    {
+      slug: "survival-algorithm",
+      author: "Chrissy Mae",
+      title: "Survival Algorithm",
+      description:
+        '"Survival Algorithm" is a looping meditation on existence, alluding to the absurdity and allure of techno-spiritual transcendence. Equal parts screensaver and existential joke, the work invites viewers to question what it means to wager consciousness against code.',
+      url: "https://editor.p5js.org/chrissymae/full/H7Kn0I-nL",
+      width: 600,
+      height: 600,
+    },
+    {
+      slug: "changing-mountains",
+      author: "Hannah Soria",
+      title: "Changing Mountains",
+      description: "Click on the canvas to see a colorful mountain scene. View a new scene with every click!",
+      url: "https://editor.p5js.org/hannahsoria/full/ntL3VpcYk",
+      width: 1000,
+      height: 1000,
     },
     {
       slug: "viscera-vector",
@@ -21,16 +40,6 @@ const Config = {
       height: 1224,
     },
     {
-      slug: "darwins-flower-garden",
-      author: "Bobby Bourque",
-      title: "Darwin's Flower Garden",
-      description:
-        "Darwin observed that, on different islands of the Galapagos, finches had evolved different beaks adapted to eating the food that was abundant. In this simulation, flowers with simulated genomes adapt to an imaginary environment where genes that help them are emphasized and genes that don't are suppressed. All of the flowers begin with the same genome, as natural selection (with some random variation) leads them down paths to new phenotypes. Press spacebar to restart with new flowers.",
-      url: "https://editor.p5js.org/robo4533/full/bznX7uJLJ",
-      width: 600,
-      height: 600,
-    },
-    {
       slug: "my-other-computer-is-a-loom",
       author: "Katerina Houser",
       title: "My Other Computer is a Loom",
@@ -41,6 +50,35 @@ const Config = {
       height: 400,
     },
     {
+      slug: "particle-waves-3d",
+      author: "LoneStroke",
+      title: "Particle waves 3D",
+      description:
+        "I developed a 3D wave generator using tangent and sine waves to create dynamic motion. Orbit controls allow for interactive viewing, and I refined the tangent functions with ChatGPT to achieve the randomized, flowing motion I envisioned.<br><br>Instructions:<br>Click anywhere on the screen to generate a new particle-based artwork.",
+      url: "https://editor.p5js.org/Steveroland09/full/7w0kS0wM_",
+      width: 900,
+      height: 900,
+    },
+    {
+      slug: "fruit-salad",
+      author: "Madeleine Andersen",
+      title: "Fruit Salad",
+      description:
+        "In this sketch, a sphere morphs through various fruit shapes. Each fruit has a hand-painted texture and fun little details!",
+      url: "https://editor.p5js.org/madeleinejane.andersen/full/ynIqVLt0n",
+      width: 500,
+      height: 500,
+    },
+    {
+      slug: "tbd",
+      author: "Marvin Melzer",
+      title: "TBD",
+      description: "TBD",
+      url: "https://editor.p5js.org/celerycleric/full/Rontqlg2U",
+      width: 550,
+      height: 550,
+    },
+    {
       slug: "bug-clock",
       author: "Reid Pritchard",
       title: "Bug Clock",
@@ -48,15 +86,6 @@ const Config = {
       url: "https://editor.p5js.org/ReidPritchard/full/_x3DSzNHl",
       width: 800,
       height: 800,
-    },
-    {
-      slug: "changing-mountains",
-      author: "Hannah Soria",
-      title: "Changing Mountains",
-      description: "Click on the canvas to see a colorful mountain scene. View a new scene with every click!",
-      url: "https://editor.p5js.org/hannahsoria/full/ntL3VpcYk",
-      width: 1000,
-      height: 1000,
     },
   ],
 };
