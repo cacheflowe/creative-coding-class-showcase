@@ -64,7 +64,7 @@ class App extends HTMLElement {
         <menu-attribution><b>${sketchInfo.title}</b><br>by ${sketchInfo.author}</menu-attribution>
         <section>
           <h1>Creative Coding Class Showcase</h1>
-          <small>By students at the ATLAS Institute, CU Boulder, Fall 2025.</small>
+          <small>By master's students at the ATLAS Institute, CU Boulder, Fall 2025.</small>
           <nav>
             <ul>
               ${sketchesMenu}
