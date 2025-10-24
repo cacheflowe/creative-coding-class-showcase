@@ -70,10 +70,10 @@ const Config = {
       height: 500,
     },
     {
-      slug: "tbd",
+      slug: "alligning",
       author: "Marvin Melzer",
-      title: "TBD",
-      description: "TBD",
+      title: "ALLigning",
+      description: "sometimes we ALLign",
       url: "https://editor.p5js.org/celerycleric/full/Rontqlg2U",
       width: 550,
       height: 550,
@@ -86,6 +86,16 @@ const Config = {
       url: "https://editor.p5js.org/ReidPritchard/full/_x3DSzNHl",
       width: 800,
       height: 800,
+    },
+    {
+      slug: "clear-creeks",
+      author: "Wes Hughes",
+      title: "Clear Creeak County's Biggest Creeks",
+      description:
+        "This is a sketch of all of the creeks in Clear Creek county arranged by text size based on cubic feet per second. I took this data from the Colorado surface water conditions, the API required a password so instead I downloaded a CSV to fill the data for the sketch. My focus with this project was to keep the coding as efficient as possible. it took me sometime to get the text animation correct but I am happy with how it turned out. That process helped me to understand how to use nested loops. If I were to continue developing this idea, I think it would be important to give some information about how the creeks flow changes through the year to make a more salient educational data visualization.",
+      url: "https://editor.p5js.org/wesleyjams/full/zx7hGQflw",
+      width: 500,
+      height: 500,
     },
   ],
 };
